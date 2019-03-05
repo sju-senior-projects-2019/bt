@@ -1,0 +1,10 @@
+color codes:
+
+maze-1 walls: 248 224 248 - FF3DC4
+maze-1 borders: 248 224 248 - 4BB23A
+
+pellot_1: 248 248 248 - F8F8F8
+
+big_pellot_1: 248 248 248 - F8F8F8
+
+pacman: 198 40 25 - C62819
