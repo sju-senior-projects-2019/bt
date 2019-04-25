@@ -1,6 +1,6 @@
 # brett tillotson - pacman clone created in Dart programming language
 
-Uses Flutter framework and the Spritewidget 2D game building engine
+Uses Flutter framework and the Flame basic game engine (built in Flutter)
 
 Sources:
 
