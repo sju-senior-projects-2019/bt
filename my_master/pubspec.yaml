@@ -42,8 +42,25 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/maze-1-blank.png
-    - assets/images/puck.png
+    - assets/images/puck-right.png
+    - assets/images/puck-up.png # character
+    - assets/images/puck-left.png
+    - assets/images/puck-down.png
+    - assets/images/ui-left.png # keypad
+    - assets/images/ui-right.png
+    - assets/images/ui-down.png
+    - assets/images/ui-up.png
+    - assets/images/red-right.png # enemies
+    - assets/images/red-down.png
+    - assets/images/red-left.png
+    - assets/images/red-up.png
+    - assets/images/big-pellet.png
+    - assets/images/blue.png
+
+
     - assets/images/maze-1-resize.png
+    - assets/audio/moon.mp3
+    - assets/audio/go.mp3
   #  - images/a_dot_burr.jpeg
 
 
